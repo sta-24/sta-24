@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a java program<br>👯 🌱 I’m currently a student<br>
+🔭 I’m currently working on a java program<br> 🌱 I’m currently a student<br>
 
 
 ## 🌐 Socials:
