@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a java program<br> 🌱 I’m currently a student<br>
+ 🌱 Computer and Communication Engineering student at Nitte Mahalinga Adyantaya Memorial Institute of Technology<br>
 
 
 ## 🌐 Socials:
