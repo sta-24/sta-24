@@ -72,13 +72,6 @@ Projects exploring **computer networks, network simulation, communication system
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sta-24\&show_icons=true\&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sta-24\&layout=compact\&theme=dark)
-
-
 ---
 
 ⭐ Thanks for visiting my profile!
