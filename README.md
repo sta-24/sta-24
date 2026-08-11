@@ -74,11 +74,14 @@ Projects exploring **computer networks, network simulation, communication system
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=sta-24\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sta-24&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sta-24&layout=compact&theme=dark&hide_border=true&langs_count=8" height="180"/>
+</p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=sta-24\&theme=dark\&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sta-24\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false\&layout=compact)
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=sta-24&theme=dark&hide_border=true" height="180"/>
+</p>
 
 ---
 
