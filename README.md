@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Stavina Dsouza
+# 👋 Hi, I'm Stavina DSouza
 
 🎓 Computer and Communication Engineering student at **Nitte Mahalinga Adyantaya Memorial Institute of Technology (NMAMIT)**
 
